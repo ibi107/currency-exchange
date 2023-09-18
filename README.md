@@ -1,4 +1,4 @@
-# currency-exchange
+# Currency Exchange System
 
 ### ./src/main/App.java
 Command-line interface and main method
